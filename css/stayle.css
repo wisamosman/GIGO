@@ -18,5 +18,14 @@
     border-radius: 25px;
 }
 .navbar-nav{
-    margin-left: 350px;
+    margin-left: 200px;
+}
+.q3{
+    color: white;
+    font-weight: 700;
+    padding: 8px 25px;
+    background-color: #20365D;
+    border-radius: 25px;
+    margin-left: 50px;
+    text-decoration: none;
 }
