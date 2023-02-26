@@ -50,3 +50,27 @@
     color: #A2A2A2;
     font-weight: 700;
 }
+.w2{
+    color: white;
+}
+.card-title{
+    color: white;
+    font-weight: 700;
+}
+.w3{
+    font-weight: 700;
+    color: #8364E2;
+}
+.w1{
+    background-color: black;
+}
+.card{
+    background-color: #26292D;
+}
+.w4{
+    width: 50px;
+    border-radius: 25px;
+}
+.w7{
+    background-color: #26292D;
+}
