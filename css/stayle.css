@@ -75,3 +75,17 @@ box-shadow: 5px 5px 15px 5px #000000;
     border-radius: 25px;
     margin-left: 25px;
 }
+
+.e3{
+    color: white;
+    font-weight: 800;
+}
+.e1{
+    background-color:#282B2F;
+    box-shadow: 5px 5px 15px 5px #000000;
+    padding: 20px 10px;
+    border-radius: 22px;
+}
+.e2{
+    margin-left: 40px;
+}
