@@ -36,13 +36,17 @@
 .q7{
     color: white;
     font-weight: 700;
-    font-size: 35px;
+    font-size: 50px;
 }
 .q3{
-    color: #A2A2A2;
-    font-weight: 600;
+    color:white;
+    font-weight: 700;
 }
 .q9{
     color: white;
     font-weight: 800;
+}
+.q8{
+    color: #A2A2A2;
+    font-weight: 700;
 }
