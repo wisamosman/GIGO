@@ -1,6 +1,6 @@
 .q1{
     background-image: url(https://gigaland.io/images/background/8.jpg);
-    padding-top: 15px;
+    padding-top: 25px;
 }
 .nav-link{
     color: white;
@@ -13,4 +13,10 @@
 .btn{
     color: white;
     font-weight: 700;
+    padding: 5px 20px;
+    background-color: #8364E2;
+    border-radius: 25px;
+}
+.navbar-nav{
+    margin-left: 350px;
 }
