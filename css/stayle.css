@@ -58,19 +58,20 @@
     font-weight: 700;
 }
 .w3{
-    font-weight: 700;
+    font-weight: 800;
     color: #8364E2;
+    font-size: 18px;
 }
 .w1{
     background-color: black;
 }
 .card{
     background-color: #26292D;
+     
+box-shadow: 5px 5px 15px 5px #000000;
 }
 .w4{
     width: 50px;
     border-radius: 25px;
-}
-.w7{
-    background-color: #26292D;
+    margin-left: 25px;
 }
